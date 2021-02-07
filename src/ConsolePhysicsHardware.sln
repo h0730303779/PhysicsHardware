@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePhysicsHardwareTest", "ConsolePhysicsHardware\ConsolePhysicsHardwareTest.csproj", "{19DFDED7-D08A-4A03-A933-147CF903D42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicsHardware", "PhysicsHardware\PhysicsHardware.csproj", "{8DBAB3D4-CE09-4BD3-9DA6-78A1D3FE89EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DFDED7-D08A-4A03-A933-147CF903D42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DFDED7-D08A-4A03-A933-147CF903D42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DFDED7-D08A-4A03-A933-147CF903D42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DFDED7-D08A-4A03-A933-147CF903D42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DBAB3D4-CE09-4BD3-9DA6-78A1D3FE89EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBAB3D4-CE09-4BD3-9DA6-78A1D3FE89EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBAB3D4-CE09-4BD3-9DA6-78A1D3FE89EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBAB3D4-CE09-4BD3-9DA6-78A1D3FE89EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C339C2CE-CE8E-4A7D-9DC2-EFD58233D350}
+	EndGlobalSection
+EndGlobal
